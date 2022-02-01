@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    
+}
+body{ margin: 25px;}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f5c6c6;
+    text-align: center;
+}
+
+img{
+    padding: 20px;
+    border-radius: 10px;
+    height: auto;
+    display: inline;
+}
+p{
+    text-indent: 20px;
+    text-align: justify;
+    text-transform: capitalize;
+    font-display: rgb(7, 1, 1);
+    font-weight: lighter;
+    
+}
+
+div h4{
+    padding: 10px;
+    font-weight: 700;
+    color: rgba(172, 13, 34, 0.932);
+    margin-left: 10px;
+}
+
+
+
+
+
+
